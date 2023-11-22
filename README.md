@@ -2,7 +2,7 @@ To jest GUI stworzone dla polskich graczy PokeMMO w celu ułatwienia kontroli br
 Został użyty moduł/biblioteka customtkinter.
 
 Link do pobrania: \
-[https://www.mediafire.com/file/4rjk7nts2jiasg9/IVhelper.rar/file](https://www.mediafire.com/file/nowvoxpj5ab47p5/PokeBreederLauncher.rar/file)
+https://www.mediafire.com/file/nowvoxpj5ab47p5/PokeBreederLauncher.rar/file
 
 UWAGA!: \
 Podczas pobierania, używania i otwierania aplikacji Antywirus może wykryć trojana, niestety nie potrafię na ten moment
