@@ -1,20 +1,14 @@
-# BreedingIVHelper
+This is a GUI created for Polish PokeMMO players to make Pokémon breeding management easier.
+It uses the customtkinter module/library.
 
-To jest GUI stworzone dla polskich graczy PokeMMO w celu ułatwienia breedowania pokemonów.
+![ctkmain](github_imgs/ctkmain.png)
+## WARNING!
+Your antivirus may detect a Trojan while using or opening the application. Unfortunately, I can't fix this issue at the moment — please ignore it!
 
-Link do pobrania: \
-https://www.mediafire.com/file/4rjk7nts2jiasg9/IVhelper.rar/file
+### Update 2.2:
+- Mobile-friendly GUI – you can switch between windows easily.
+- Much more visually appealing design, including rounded frames.
+- Light and dark modes available.
+- Pressing Enter now works while searching for Pokémon information.
 
-UWAGA!: \
-Podczas pobierania, używania i otwierania aplikacji Antywirus może wykryć trojana, niestety nie potrafię na ten moment
-nic z tym zrobić - zignoruj to!
-
-Jak włączyć aplikację?:
-1. Rozpakuj pobrany plik.
-2. Otwórz folder i kliknij IVhelper.exe.
-
-Update003:
-
-1. Można teraz usunąc pernamentnie napis na początku
-2. Nie trzeba zapisywać ustawień kolorów - robi to automatycznie
-3. Dodałem zakładkę breedowanie, w którym jest kilka najważniejszych poradników
+![ctkpoke](github_imgs/ctkpoke.png)
